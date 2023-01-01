@@ -1,3 +1,3 @@
-## Here You can find all the codes where you can see all the codes how to create and work on the csv file.
+## Here You can find all the codes where you can see all the codes of feature engineering and ml algorithms.
 
-Books dataset link : http://www2.informatik.uni-freiburg.de/~cziegler/BX/
+1. day15 - working with csv files
