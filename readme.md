@@ -4,4 +4,4 @@
 2. [Working with Json files](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/2-%20working-with-json-and-sql)
 3. [Api to Pandas DataFrame](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/3-api-to-dataframe)
 4. [Web Scraping](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/4-pandas-dataframe-using-web-scraping)
-5. [Understanding your descriptive data points](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/4-pandas-dataframe-using-web-scraping)
+5. [Understanding your descriptive data points](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/5-understanding-your-data-descriptive-stats)
