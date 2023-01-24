@@ -11,3 +11,4 @@
 9. [Standardization](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/9-standardization)
 10. [Normalization](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/10-normalization)
 11. [Ordinal Encoding](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/11-ordinal-encoding)
+12. [Ordinal Encoding](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/12-one-hot-encoding)
