@@ -16,3 +16,4 @@
 14. [SkLearn PipeLines](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/14-sklearn-pipelines)
 15. [Function Trasnsformer](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/15-function-transformer)
 16. [Power Trasnsformer](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/16-power-transformer)
+17. [Binning & Binarization](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/17-binning-and-binarization)
