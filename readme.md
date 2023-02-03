@@ -18,3 +18,4 @@
 16. [Power Trasnsformer](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/16-power-transformer)
 17. [Binning & Binarization](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/17-binning-and-binarization)
 18. [Handling Mixed Variables](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/18-handling-mixed-variables)
+18. [Handling Date and time](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/18-handling-mixed-variables)
