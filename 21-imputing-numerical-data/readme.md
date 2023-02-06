@@ -1,1 +1,5 @@
-Video Link : https://youtu.be/mCL2xLBDw8M
+# Impute missing value:
+  - Mean
+  - Median
+  - Mode
+  - Arbitrary Value
