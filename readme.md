@@ -19,5 +19,6 @@
 17. [Binning & Binarization](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/17-binning-and-binarization)
 18. [Handling Mixed Variables](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/18-handling-mixed-variables)
 19. [Handling Date and time](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/19-handling-date-and-time)
-19. [Complete Case Analysis](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/20-complete-case-analysis)
-19. [Impute using Arbitrary Value and meand median mode](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/20-complete-case-analysis)
+20. [Complete Case Analysis](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/20-complete-case-analysis)
+21. [Impute using Arbitrary Value and meand median mode](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/20-complete-case-analysis)
+22. [Handling Missing Categorical Data](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/20-complete-case-analysis)
