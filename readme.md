@@ -23,3 +23,4 @@
 21. [Impute using Arbitrary Value and meand median mode](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/21-imputing-numerical-data)
 22. [Handling Missing Categorical Data](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/22-handling-missing-categorical-data)
 23. [Missing Indicator](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/23-missing-indicator)
+24. [KNN Imputer](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/24-knn-imputer)
