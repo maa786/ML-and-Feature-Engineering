@@ -25,3 +25,4 @@
 23. [Missing Indicator](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/23-missing-indicator)
 24. [KNN Imputer](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/24-knn-imputer)
 25. [Iterative Imputer](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/25-iterative-imputer)
+26. [Outlier Remover Using Z Score](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/26-outlier-removal-using-zscore)
