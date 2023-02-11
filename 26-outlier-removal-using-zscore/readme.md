@@ -1,1 +1,1 @@
-Video Link:https://youtu.be/OnPE-Z8jtqM
+# Outlier Remover Using Z Score
