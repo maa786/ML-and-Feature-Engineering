@@ -1,1 +1,1 @@
-Video Link : 
+# Outlier Removal Using Percentile Method
