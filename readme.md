@@ -28,3 +28,4 @@
 26. [Outlier Remover Using Z Score](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/26-outlier-removal-using-zscore)
 27. [Outlier Remover Using IQR](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/27-outlier-removal-using-iqr-method)
 28. [Outlier Remover Using Percentile Method](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/28-outlier-detection-using-percentiles)
+28. [Feature Construction & Featurer Splitting](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/29-feature-construction-and-feature-splitting)
