@@ -30,3 +30,4 @@
 28. [Outlier Remover Using Percentile Method](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/28-outlier-detection-using-percentiles)
 29. [Feature Construction & Featurer Splitting](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/29-feature-construction-and-feature-splitting)
 30. [Feature Selection](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/30%20Complete-Feature-Selection-master)
+30. [PCA](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/31-pca)
