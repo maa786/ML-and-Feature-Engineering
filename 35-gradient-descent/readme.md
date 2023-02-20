@@ -1,1 +1,1 @@
-Video Link
+# Gradient Descent
