@@ -34,3 +34,4 @@
 32. [Simple Linear Regression](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/32-simple-linear-regression)
 33. [Regression Metrics](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/33-regression-metrics)
 34. [Multiple Linear Regression](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/34-multiple-linear-regression)
+35. [Gradient Descent](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/35-gradient-descent)
