@@ -36,3 +36,4 @@
 34. [Multiple Linear Regression](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/34-multiple-linear-regression)
 35. [Gradient Descent](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/35-gradient-descent)
 36. [Types Of Gradient Descent](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/36-types-of-gradient-descent)
+37. [Polynomial Regression](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/37-polynomial-regression)
