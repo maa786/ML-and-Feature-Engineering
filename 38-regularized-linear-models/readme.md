@@ -1,1 +1,1 @@
-Video Link
+# Ridge Regularization
