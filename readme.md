@@ -37,3 +37,4 @@
 35. [Gradient Descent](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/35-gradient-descent)
 36. [Types Of Gradient Descent](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/36-types-of-gradient-descent)
 37. [Polynomial Regression](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/37-polynomial-regression)
+38. [Ridge Regularization](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/38-regularized-linear-models)
