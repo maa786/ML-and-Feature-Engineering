@@ -41,3 +41,4 @@
 39. [Lasso Regression](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/39-lasso-regression)
 40. [ElasticNet Regression](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/40-elasticnet-regression)
 41. [Logistic Regression](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/41-logistic-regression)
+42. [Classification Metrics](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/42-classification-metrics)
