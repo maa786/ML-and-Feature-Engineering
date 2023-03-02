@@ -43,3 +43,4 @@
 41. [Logistic Regression](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/41-logistic-regression)
 42. [Classification Metrics](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/42-classification-metrics)
 43. [Logistic Regression Cont](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/43-logistic-regression-contd)
+44. [Decision Tree](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/44-decision-trees)
