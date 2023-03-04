@@ -45,3 +45,4 @@
 43. [Logistic Regression Cont](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/43-logistic-regression-contd)
 44. [Decision Tree](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/44-decision-trees)
 45. [Voting Ensemble](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/45-voting-ensemle)
+46. [Bagging Ensemble](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/46-bagging-ensemble)
