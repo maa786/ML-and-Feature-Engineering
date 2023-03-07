@@ -47,3 +47,4 @@
 45. [Voting Ensemble](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/45-voting-ensemle)
 46. [Bagging Ensemble](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/46-bagging-ensemble)
 47. [Random Forest](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/47-random-forest)
+48. [Adaboost](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/48-adaboost)
