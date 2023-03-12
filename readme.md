@@ -49,4 +49,4 @@
 47. [Random Forest](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/47-random-forest)
 48. [Adaboost](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/48-adaboost)
 49. [K-Means](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/49-kmeans)
-49. [Gradient Boosting](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/50-gradient-boosting)
+50. [Gradient Boosting](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/50-gradient-boosting)
