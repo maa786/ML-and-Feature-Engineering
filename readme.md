@@ -51,3 +51,4 @@
 49. [K-Means](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/49-kmeans)
 50. [Gradient Boosting](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/50-gradient-boosting)
 51. [Gradient Boosting Regression and Classification](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/51-gradient-boosting%20reg%20and%20cls)
+52. [Stacking and Blending](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/52-stacking-and-blending)
