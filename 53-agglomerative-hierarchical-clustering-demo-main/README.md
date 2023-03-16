@@ -1,2 +1,2 @@
-# agglomerative-hierarchical-clustering-demo
+# Agglomerative hierarchical clustering
 Demo code on agglomerative clustering
