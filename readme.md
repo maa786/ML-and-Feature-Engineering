@@ -52,4 +52,5 @@
 50. [Gradient Boosting](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/50-gradient-boosting)
 51. [Gradient Boosting Regression and Classification](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/51-gradient-boosting%20reg%20and%20cls)
 52. [Stacking and Blending](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/52-stacking-and-blending)
-52. [Agglomerative hierarchal clustering](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/53-agglomerative-hierarchical-clustering-demo-main)
+53. [Agglomerative hierarchal clustering](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/53-agglomerative-hierarchical-clustering-demo-main)
+54. [K Nearest Neighbour](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/54-K-Nearest-Neighbors-master)
