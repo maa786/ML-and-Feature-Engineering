@@ -1,2 +1,1 @@
-# Support-Vector-Machines-SVM-
-Codes related to SVM
+# Support-Vector-Machines-SVM
