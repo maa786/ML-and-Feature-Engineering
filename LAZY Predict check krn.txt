@@ -109,5 +109,3 @@ models,predictions = reg.fit(X_train, X_test, y_train, y_test)
 | KernelRidge                   |  -8.24669   | 22.7396  |    0.0309792 |
 
 
-
-
