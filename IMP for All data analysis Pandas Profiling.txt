@@ -1,0 +1,15 @@
+# To install pandas-profiling module
+!pip install pandas-profiling 
+
+# import pandas-profiling
+from pandas_profiling import ProfileReport
+
+#read data set file here
+
+data = pd.read_csv("")
+
+# Pass the data frame to the function
+prof = ProfileReport(data)
+
+# Generate the output as html or json
+prof.to_file(output_file='titanic.html')
