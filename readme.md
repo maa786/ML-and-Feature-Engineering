@@ -57,3 +57,4 @@
 54. [Support Vector Machine](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/55-Support-Vector-Machines-SVM)
 55. [Data Accessing and clean](https://github.com/maa786/ML-and-Feature-Engineering/blob/main/data_accessing_and_cleaning.ipynb)
 57. [Save Model using pickle and joblib](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/57%20save_model)
+58. [Automated Machine Learning using MLBOX](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/58%20AutoML)
