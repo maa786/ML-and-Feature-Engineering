@@ -58,3 +58,4 @@
 55. [Data Accessing and clean](https://github.com/maa786/ML-and-Feature-Engineering/blob/main/data_accessing_and_cleaning.ipynb)
 57. [Save Model using pickle and joblib](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/57%20save_model)
 58. [Automated Machine Learning using MLBOX](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/58%20AutoML)
+59. [EVALML Automated ML and feature Engineering](https://github.com/maa786/ML-and-Feature-Engineering/tree/main/59%20EvalML%20AutoML%20Library%20To%20Automate%20Feature%20Engineering%2C%20Feature%20Selection%2CModel%20Creation%20And%20Tuning)
