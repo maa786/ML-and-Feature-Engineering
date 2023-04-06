@@ -1,1 +1,2 @@
 # Normalization
+- QQ Plot
