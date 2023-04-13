@@ -1,2 +1,2 @@
 # Agglomerative hierarchical clustering
-Demo code on agglomerative clustering
+Demo code on agglomerative clustering DBSCAN
